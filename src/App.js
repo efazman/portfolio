@@ -622,7 +622,7 @@ export default function Portfolio() {
             </p>
             <div className="flex gap-6 justify-center flex-wrap">
               <a
-                href="efaz@umich.edu"
+                href="mailto:efaz@umich.edu"
                 className="px-8 py-3 bg-gradient-to-r from-yellow-400 to-blue-600 rounded-lg font-semibold hover:shadow-lg hover:scale-105 transition-all inline-flex items-center gap-2 relative overflow-hidden group"
               >
                 <span className="absolute inset-0 bg-white/20 scale-x-0 group-hover:scale-x-100 transition-transform duration-300 origin-left"></span>
